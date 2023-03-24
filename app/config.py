@@ -1,5 +1,4 @@
 """This module provides the To-Do-App-Clo config functionality."""
-# app/config.py
 
 import configparser
 from pathlib import Path

@@ -1,5 +1,4 @@
 """To-Do-App-Cli entry point script."""
-# rptodo/__main__.py
 
 from app import cli, __app_name__
 

@@ -1,5 +1,4 @@
 """This module provides the To-Do-App-Cli model-controller."""
-# app/todo.py
 
 from typing import Any, Dict, List, NamedTuple
 from pathlib import Path

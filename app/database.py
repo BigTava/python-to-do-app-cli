@@ -1,5 +1,4 @@
 """This module provides the To-Do-App-Cli database functionality."""
-# app/database.py
 
 import configparser
 from pathlib import Path

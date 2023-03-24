@@ -1,5 +1,4 @@
 """Top-level package for To-Do-App-Cli."""
-# app/__init__.py
 
 __app_name__ = "to-do-app-cli"
 __version__ = "0.1.0"

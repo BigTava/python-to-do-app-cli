@@ -1,5 +1,4 @@
 """This module provides the To-Do-App-Cli CLI."""
-# app/cli.py
 
 from pathlib import Path
 from typing import Optional, List, Optional

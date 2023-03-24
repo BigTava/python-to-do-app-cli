@@ -1,5 +1,3 @@
-# tests/test_todo.py
-
 from typer.testing import CliRunner
 import json
 import pytest
